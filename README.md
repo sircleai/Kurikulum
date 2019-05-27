@@ -5,6 +5,11 @@ Kurikulum temporary untuk juni-desember 2019
 1. Data Mining dan Big Data Analytics Edisi 2 - Budi Santosa dan Ardian Umam
 2. Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurélien Géron
 
+## Spesifikasi yang Disarankan
+1. RAM 4GB
+2. OS: Windows 7/8/10, MacOSX, Ubuntu/Distro Linux Lain
+3. Web Browser dan Koneksi Internet
+
 ## Pertemuan 1 - Perkenalan, Instalasi Tools, Kaggle dan Google Colab
 
 ## Pertemuan 2 - Pengenalan Python dan OOP
