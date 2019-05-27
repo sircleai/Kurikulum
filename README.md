@@ -91,6 +91,8 @@ Kurikulum temporary untuk juni-desember 2019
 - [ ] Cara Presentasi
 - [ ] Cara membuat slide
 - [ ] Data driven Presentation
+- [ ] Menulis blog
+- [ ] Menulis karya tulis
 
 ## Pertemuan 17 - Model Optimization
 - [ ] Hyperparameter Tuning
