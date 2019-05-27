@@ -81,30 +81,34 @@ Kurikulum temporary untuk juni-desember 2019
 
 ## Pertemuan 14 - Deep Learning untuk Audio
 
-## Pertemuan 15 - Deploy Model ke Website/Aplikasi
+## Pertemuan 15 - Intro to Computer Vision
+
+## Pertemuan 16 - Deep Learning untuk Video dan Gambar
+
+## Pertemuan 17 - Deploy Model ke Website/Aplikasi
 - [ ] Flask
 - [ ] TensorFlow Lite
 - [ ] TensorFlow JS
 - [ ] MLKit Firebase
 
-## Pertemuan 16 - Data Story Telling
+## Pertemuan 18 - Data Story Telling
 - [ ] Cara Presentasi
 - [ ] Cara membuat slide
 - [ ] Data driven Presentation
 - [ ] Menulis blog
 - [ ] Menulis karya tulis
 
-## Pertemuan 17 - Model Optimization
+## Pertemuan 19 - Model Optimization
 - [ ] Hyperparameter Tuning
 - [ ] GridSearch
 - [ ] Bayesian Hyperparameter Tuning
 - [ ] Overfit vs Underfit
 - [ ] Ensembling
 
-## Pertemuan 18 - Final Test Evaluation : Kaggle InClass
+## Pertemuan 20 - Final Test Evaluation : Kaggle InClass
 
-## Pertemuan 19 - Group Project 1
+## Pertemuan 21 - Group Project 1
 
-## Pertemuan 20 - Group Project 1
+## Pertemuan 22 - Group Project 1
 
-## Pertemuan >=21 - Persiapan Gemastik
+## Pertemuan >=23 - Persiapan Gemastik
