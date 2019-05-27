@@ -40,3 +40,9 @@ Kurikulum temporary untuk juni-desember 2019
 ## Pertemuan 17 - Model Optimization
 
 ## Pertemuan 18 - Final Test Evaluation : Kaggle InClass
+
+## Pertemuan 19 - Group Project 1
+
+## Pertemuan 20 - Group Project 1
+
+## Pertemuan >=21 - Persiapan Gemastik
