@@ -1,114 +1,42 @@
 # Kurikulum
-Kurikulum temporary untuk juni-desember 2019
+Kurikulum SircleAI 2019-2020
 
 ## Buku Pegangan
 1. Data Mining dan Big Data Analytics Edisi 2 - Budi Santosa dan Ardian Umam
 2. Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurélien Géron
+3. Storytelling with Data - Cole Nussbaumer Knaffic
 
 ## Spesifikasi yang Disarankan
 1. RAM 4GB
 2. OS: Windows 7/8/10, MacOSX, Ubuntu/Distro Linux Lain
 3. Web Browser dan Koneksi Internet
 
-## Pertemuan 1 - Perkenalan, Instalasi Tools, Kaggle dan Google Colab
+## Pertemuan 1 - Perkenalan
 - [ ] Perkenalan Anggota
-- [ ] Instalasi Library
-- [ ] Daftar Kaggle
-- [ ] Google Colab
+- [ ] Data dan Kecerdasan Buatan di Era Industri 4.0v(Pak Apri)
 
-## Pertemuan 2 - Pengenalan Python dan OOP
-- [ ] Input/Output
-- [ ] Tipe Data
+## Pertemuan 2 - Visualisasi Data dan Cerita dibaliknya
+- [ ] Macam Macam Visualisasi Data
+- [ ] Visualisasi Data di Excel
+- [ ] Data Storytelling
+
+## Pertemuan 3 - Seminar
+- [ ] Data di kehidupan sehari-hari (Rafian)
+
+## Pertemuan 4 - Visualisasi dan Story Telling lebih lanjut
+- [ ] Proper Data Visualsation Design
+- [ ] Visualisasi Data di Python
+- [ ] Advanced Data Storytelling
+
+## Pertemuan 5 - Seminar
+- [ ] SircleAI Sebagai Data Driven Community (Jerry)
+
+## Pertemuan 6 - Dasar Python
+- [ ] Output
+- [ ] Operasi Matematika
+
+## Pertemuan 7 - Percabangan Python
+- [ ] Review dasar Python
 - [ ] Percabangan
-- [ ] Perulangan
-- [ ] Prosedur dan Fungsi
-- [ ] Rekursif
-- [ ] Class
 
-## Pertemuan 3 - Data Struktur Python
-- [ ] List
-- [ ] Array
-- [ ] Array Multidimensi
-- [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-
-## Pertemuan 4 - Numpy, Scipy, Pandas, dan Lib Dasar lain untuk Data Mining
-- [ ] Aljabar Linear dasar
-- [ ] Aljabar Linear dengan Numpy
-- [ ] Statistika dasar
-- [ ] Statistika dengan Scipy
-- [ ] Dataframe
-- [ ] Pengolahan Dataframe dengan Pandas
-- [ ] Library Lain
-
-## Pertemuan 5 - Visualisasi Data
-- [ ] Matplotlib
-- [ ] Seaborn
-- [ ] Plotly
-
-## Pertemuan 6 - Data Cleaning dan Transforming
-- [ ] Missing Values Handling
-- [ ] Outlier Removal
-- [ ] Data Distribution
-- [ ] Factorization
-- [ ] One Hot Encoding
-- [ ] etc
-
-## Pertemuan 7 - Intro to Machine Learning
-
-## Pertemuan 8 - Supervised Learning
-- [ ] Regresi
-- [ ] Klasifikasi
-
-## Pertemuan 9 - Evaluation : Kaggle InClass
-
-## Pertemuan 10 - Unsupervised Learning
-- [ ] Reduksi Dimensi
-- [ ] Klastering
-
-## Pertemuan 11 - Intro to Deep Learning
-- [ ] Teori Deep Learning
-- [ ] Keras dan Tensorflow
-
-## Pertemuan 12 - Pengolahan Text, dan Sentimen Analysis
-- [ ] Regex
-- [ ] Ekstraksi PDF
-- [ ] Baca tulis txt
-- [ ] NLTK
-
-## Pertemuan 13 - Deep Learning untuk Text
-
-## Pertemuan 14 - Deep Learning untuk Audio
-
-## Pertemuan 15 - Intro to Computer Vision
-
-## Pertemuan 16 - Deep Learning untuk Video dan Gambar
-
-## Pertemuan 17 - Deploy Model ke Website/Aplikasi
-- [ ] Flask
-- [ ] TensorFlow Lite
-- [ ] TensorFlow JS
-- [ ] MLKit Firebase
-
-## Pertemuan 18 - Data Story Telling
-- [ ] Cara Presentasi
-- [ ] Cara membuat slide
-- [ ] Data driven Presentation
-- [ ] Menulis blog
-- [ ] Menulis karya tulis
-
-## Pertemuan 19 - Model Optimization
-- [ ] Hyperparameter Tuning
-- [ ] GridSearch
-- [ ] Bayesian Hyperparameter Tuning
-- [ ] Overfit vs Underfit
-- [ ] Ensembling
-
-## Pertemuan 20 - Final Test Evaluation : Kaggle InClass
-
-## Pertemuan 21 - Group Project 1
-
-## Pertemuan 22 - Group Project 1
-
-## Pertemuan >=23 - Persiapan Gemastik
+More to be added...
