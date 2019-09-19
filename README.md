@@ -35,8 +35,25 @@ Kurikulum SircleAI 2019-2020
 - [ ] Output
 - [ ] Operasi Matematika
 
-## Pertemuan 7 - Percabangan Python
+## Pertemuan 7 - Seminar
+- [ ] Learning How to Learn (Jerry)
+
+## Pertemuan 8 - Percabangan Python
 - [ ] Review dasar Python
 - [ ] Percabangan
+
+## Pertemuan 9 - Seminar
+- [ [ Sharing Session (Mas Andre)
+
+## Pertemuan 10 - Perulangan Python
+- [ ] Review Percabangan Python
+- [ ] Perulangan Python
+
+## Pertemuan 11 - Seminar
+- [ ] Data, Cloud, dan IoT (Pak Wahyu Andi)
+
+## Pertemuan 12 - Tipe Data Dasar Python
+- [ ] Review Perulangan Python
+- [ ] Tipe Data Dasar Python
 
 More to be added...
