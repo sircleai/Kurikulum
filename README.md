@@ -13,9 +13,9 @@ Kurikulum SircleAI 2019-2020
 
 ## Pertemuan 1 - Perkenalan
 - [ ] Perkenalan Anggota
-- [ ] Data dan Kecerdasan Buatan di Era Industri 4.0v(Pak Apri)
+- [ ] Data dan Kecerdasan Buatan di Era Industri 4.0 (Pak Apri)
 
-## Pertemuan 2 - Visualisasi Data dan Cerita dibaliknya
+## Pertemuan 2 - Data Storytelling 1
 - [ ] Macam Macam Visualisasi Data
 - [ ] Visualisasi Data di Excel
 - [ ] Data Storytelling
@@ -23,7 +23,7 @@ Kurikulum SircleAI 2019-2020
 ## Pertemuan 3 - Seminar
 - [ ] Data di kehidupan sehari-hari (Rafian)
 
-## Pertemuan 4 - Visualisasi dan Story Telling lebih lanjut
+## Pertemuan 4 - Data Storytelling 2
 - [ ] Proper Data Visualsation Design
 - [ ] Visualisasi Data di Python
 - [ ] Advanced Data Storytelling
