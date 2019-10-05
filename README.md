@@ -43,7 +43,7 @@ Kurikulum SircleAI 2019-2020
 - [ ] Percabangan
 
 ## Pertemuan 9 - Seminar
-- [ [ Sharing Session (Mas Andre)
+- [ ] Sharing Session (Mas Andre)
 
 ## Pertemuan 10 - Perulangan Python
 - [ ] Review Percabangan Python
