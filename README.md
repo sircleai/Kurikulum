@@ -12,7 +12,7 @@ Kurikulum SircleAI 2019-2020
 3. Web Browser dan Koneksi Internet
 
 ## Pertemuan 1 - Perkenalan
-- [ x ] Perkenalan Anggota
+- [x] Perkenalan Anggota
 - [ ] Data dan Kecerdasan Buatan di Era Industri 4.0 (Pak Apri)
 
 ## Pertemuan 2 - Data Storytelling 1
@@ -29,14 +29,14 @@ Kurikulum SircleAI 2019-2020
 - [ ] Advanced Data Storytelling
 
 ## Pertemuan 5 - Seminar
-- [ x ] SircleAI Sebagai Data Driven Community (Jerry)
+- [x] SircleAI Sebagai Data Driven Community (Jerry)
 
 ## Pertemuan 6 - Dasar Python
 - [ ] Output
 - [ ] Operasi Matematika
 
 ## Pertemuan 7 - Seminar
-- [ x ] Learning How to Learn (Jerry)
+- [x] Learning How to Learn (Jerry)
 
 ## Pertemuan 8 - Percabangan Python
 - [ ] Review dasar Python
